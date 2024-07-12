@@ -45,7 +45,7 @@ public partial class MainWindow : Window
 
             textBlock.Text = nextEmoji;
 
-            animalEmoji.RemoveAt(index);
+            animalEmoji.RemoveAt(index);ss
         }
     }
 }
